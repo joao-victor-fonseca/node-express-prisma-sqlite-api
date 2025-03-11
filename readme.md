@@ -2,7 +2,7 @@
 
 <div align="center">
   <p>
-      Bem-vindo ao repositório da minha API REST! Este projeto foi desenvolvido como parte de um trabalho acadêmico e demonstra a criação de uma API simples utilizando Node.js, Express, Prisma e SQLite. Aqui, você pode realizar operações básicas de CRUD (Criar, Ler, Atualizar, Deletar) em um banco de dados SQLite.
+      Este projeto foi desenvolvido como parte de um trabalho acadêmico e demonstra a criação de uma API simples utilizando Node.js, Express, Prisma e SQLite. Realizando operações básicas de CRUD (Criar, Ler, Atualizar, Deletar) em um banco de dados SQLite.
   </p>
 </div>
 
